@@ -35,3 +35,22 @@
 ### Abstraction
 - Hide something for simplicity = অপ্রয়োজনীয় ডিটেইল লুকিয়ে রাখা।
 - ![alt text](image-3.png)
+- 
+
+### Encapsulation
+- keep properties and method private. that will not work outside of the class
+- 
+- ![alt text](image-4.png)
+- ![alt text](image-5.png)
+- 
+
+- 
+### Inheritance
+- child class will take matching properties and values from parent class
+- ![alt text](image-6.png)
+- 
+- 
+### Polymorphism
+- this will behave many ways. a child class can overwrite a method that inherited form parent class
+- ![alt text](image-7.png)
+
