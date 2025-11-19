@@ -14,3 +14,5 @@ class Computer {
 const dell = new Computer('Dell', 'asl353')
 console.log(dell)
 dell.aboutComputer()
+// class
+// 
