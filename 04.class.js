@@ -1,6 +1,4 @@
 
-
-
 class Computer {
     constructor(name, model){
         this.name = name
